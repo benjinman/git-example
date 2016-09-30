@@ -1,0 +1,6 @@
+bang,slang,stang,rang,hang,mang
+slang,bang,stang,rang,hang,mang
+stang,bang,slang,rang,hang,mang
+rang,bang,slang,stang,hang,mang
+hang,bang,slang,stang,rang,mang
+mang,bang,slang,stang,rang,hang
